@@ -1,16 +1,3 @@
-"""
-Example showing for tkinter and ttk:
-  -- ttk.Entry
-  -- Using its GET and SET methods to get/set an Entry's information
-     (as opposed to using a CONTROL VARIABLE as in a subsequent module)
-
-     This is the SIMPLER way to use an Entry box.
-     See a subsequent module for a more complicated alternative that is
-     sometimes more convenient than this way.
-
-Authors: David Mutchler and his colleagues
-         at Rose-Hulman Institute of Technology.
-"""
 
 import tkinter
 from tkinter import ttk
